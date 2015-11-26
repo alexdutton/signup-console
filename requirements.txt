@@ -1,0 +1,6 @@
+pyfiglet
+pyusb
+pyserial
+nfcpy
+requests
+requests-negotiate
